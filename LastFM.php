@@ -1,6 +1,6 @@
 <?php 
 
-class Music
+class LastFM
 {
  
 	private $api = "LAST_FM_API_ID_GOES_HERE";
